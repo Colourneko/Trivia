@@ -1,6 +1,8 @@
+.body{background-color: antiquewhite;}
+
 .containter{
     background-color: antiquewhite;
-    border: solid, black; 
+    border-radius: 25px;
     }
 .btn btn-primary{
     width:100%;
